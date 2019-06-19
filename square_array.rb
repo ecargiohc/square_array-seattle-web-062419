@@ -1,3 +1,3 @@
 def square_array(array) 
-  array.collect { |numbers| new_array << numbers ** 2 }
+  array.collect { |numbers| numbers ** 2 }
 end
